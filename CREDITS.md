@@ -17,3 +17,4 @@
   - Special thanks to <a href="discordapp.com/users/910664421469208596" target="_blank">Mistic</a> for the new Trickster's Map
 - <p>2D iconographic maps by <a href="https://dbdmaps.com/" target="_blank">EagerFace</a></p>
 - <p>2D detailed maps by <a href="https://www.twitch.tv/kaiseraleex" target="_blank">KaiserAleex</a></p>
+- <p> 2D NA detailed maps by <a href="https://www.twitch.tv/stanleywav" target="_blank">StanleyWav</a></p>
